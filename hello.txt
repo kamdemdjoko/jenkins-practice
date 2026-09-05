@@ -9,3 +9,4 @@ hello i am currently studying
 my name is junior
 hello from waldorf maryland
 hello welcome to poll scm
+another exercise
